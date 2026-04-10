@@ -11,11 +11,12 @@
 ---
 
 ## 🧠 Sobre mim  
-- 💻 Estudando Desenvolvimento Fullstack  
-- 🔐 Foco em Análise e Desenvolvimento de Sistemas  
+- 💻 Estudando Desenvolvimento Fullstack iA  
+- 🔐 Foco em ADS - Análise e Desenvolvimento de Sistemas  
 - 🚑 Background em Saúde e Resgate  
 - 📈 Experiência em Consultoria Empresarial  
-- ⚡ Mentalidade de crescimento rápido na tecnologia  
+- ⚡ Mentalidade de crescimento rápido na tecnologia
+- 💻🔐 Apoixado por Cybersegurança  
 
 ---
 
@@ -47,16 +48,16 @@
 ---
 
 ## 🎯 Destaques Profissionais  
-- 💻 Desenvolvimento Fullstack (React, Node.js, MySQL)  
-- 📊 Experiência em Análise de Sistemas e Consultoria  
-- 🚀 Criação de projetos com foco em SaaS  
+- 💻 Em Desenvolvimento, Fullstack iA (React, Node.js, MySQL)  
+- 📊 Faculdade em ADS - Análise e desenvolvimento de Sistemas.
+- 📈 Consultoria Empresarial   
 
 ---
 
 ## 📈 Em evolução constante  
 - 📚 Estudando Backend, APIs e Banco de Dados  
 - ⚡ Foco em performance e escalabilidade  
-- 🌐 Construindo soluções para monetização  
+- 🌐 Construindo soluções pela Tecnologia  
 
 ---
 
