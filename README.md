@@ -43,7 +43,10 @@
 
 ## 🏆 Conquistas & Certificações  
 - 🧠 Certificação em Engenharia de Prompts para IA  
-- 🤖 Especialização em Automação com Inteligência Artificial  
+- 🤖 Especialização em Automação com Inteligência Artificial
+- 💻 Bootcamp TOTVS - Fundamentos de Engenharia de Dados e Machine Learning
+- 💻 Microsoft Certification Challenge #5 DP-100
+- 🧠 Aplicações Práticas da Inteligência Artificial
 
 ---
 
