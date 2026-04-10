@@ -16,7 +16,7 @@
 - 🚑 Background em Saúde e Resgate  
 - 📈 Experiência em Consultoria Empresarial  
 - ⚡ Mentalidade de crescimento rápido na tecnologia
-- 💻🔐 Apoixado por Cybersegurança  
+- 💻 Apaixonado por Cybersegurança  
 
 ---
 
