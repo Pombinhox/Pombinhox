@@ -4,9 +4,7 @@
 🚀 Desenvolvedor Fullstack em evolução | ADS e Sistemas
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile views"/>
-</p>
+
 
 ---
 
