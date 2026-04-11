@@ -20,10 +20,24 @@
 
 ## 🚀 Tecnologias & Ferramentas  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,git,github,react" />
-</p>
+<h2 align="center">🚀 Conjunto de Tecnologias</h2>
 
+<div align="center">
+
+<h3>💻 Front-end</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+<br><br>
+
+<h3>⚙️ Back-end</h3>
+<img src="https://skillicons.dev/icons?i=python,c,nodejs,mysql,firebase" />
+
+<br><br>
+
+<h3>🛠️ Ferramentas e Outros</h3>
+<img src="https://skillicons.dev/icons?i=discord,photoshop,vite,git,vercel,figma" />
+
+</div>
 ---
 
 ## 📊 Estatísticas  
