@@ -72,7 +72,7 @@
 ## 📈 Em evolução constante  
 - 📚 Estudando Backend, APIs e Banco de Dados  
 - ⚡ Foco em performance e escalabilidade  
-- 🌐 Construindo soluções pela Tecnologia  
+- 🌐 Construindo soluções através da Tecnologia  
 
 ---
 
